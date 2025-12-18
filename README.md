@@ -23,14 +23,7 @@ Each user sees only the modules allowed for their role.
 
 ### Available Roles:
 
-* **Admin Role** → Full access to all games
-* **Devils Role** → Game 1 access
-* **Baazigar Role** → Game 2 access
-* **DT Mafia Role** → DT Mafia Hack
-* **Jet Mafia Role** → Jet Mafia Hack
-* **King Hack Role** → King Hack
-* **Jet Devils Hack Role** → Jet Devils Hack
-* **Super Hack Role** → Super Hack module
+
 
 ---
 
